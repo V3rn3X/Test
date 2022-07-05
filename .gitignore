@@ -1,2 +1,12 @@
-# Project exclude paths
 /target/
+!.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+.mvn
+microblog.iml
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
